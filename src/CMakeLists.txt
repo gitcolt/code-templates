@@ -1,5 +1,5 @@
-add_executable(template
-  template.c
+add_executable(gen_template
+  gen_template.c
   )
 
 

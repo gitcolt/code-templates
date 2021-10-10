@@ -1,4 +1,4 @@
 cmake_minimum_required(VERSION 3.12)
-project(template)
+project(code_templates)
 
 add_subdirectory(src)
